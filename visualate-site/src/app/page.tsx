@@ -201,7 +201,7 @@ export default function Page() {
         <div className="grid md:grid-cols-2 gap-10 items-start">
           <div>
             <h2 className="text-3xl md:text-4xl font-semibold tracking-tight">Contact us</h2>
-            <p className="mt-3 text-white/70 max-w-prose">We'd love to hear from early partners, creators, and investors. Drop us a line and we'll get back within 2 business days.</p>
+            <p className="mt-3 text-white/70 max-w-prose">We&#39;d love to hear from early partners, creators, and investors. Drop us a line and we&#39;ll get back within 2 business days.</p>
 
             <div className="mt-6 flex items-center gap-3">
               <a href={mailtoHref} className="inline-flex items-center rounded-xl px-4 py-2 bg-white text-black">
