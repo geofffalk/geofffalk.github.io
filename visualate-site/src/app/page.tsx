@@ -13,10 +13,10 @@ export default function ARDeviceLanding() {
       <img
         src="visualate.svg"
         alt={`${CONFIG.brandName} logo`}
-        className="mx-auto mb-4 h-60 w-60"
+        className="mx-auto mb-4 h-100 w-100"
       />
-      <p className="mt-3 text-lg text-white/80">Coming soon</p>
-      <p className="mt-2 text-white/60">We’re crafting something new in augmented reality.</p>
+      <p className="mt-3 text-lg text-white/80">Visualate something amazing.</p>
+      <p className="mt-2 text-white/60">XR for everyone else. Coming soon.</p>
 
       <div className="mt-8 flex flex-col sm:flex-row gap-3 justify-center">
         <a
