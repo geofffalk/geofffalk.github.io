@@ -17,7 +17,7 @@ export default function ARDeviceLanding() {
         className="mx-auto mb-4 h-100 w-100"
       />
       <p className="mt-3 text-lg text-white/80">Visualate something amazing.</p>
-      <p className="mt-2 text-white/60">XR for everyone else. Coming soon.</p>
+      <p className="mt-2 text-white/60">Augmented Reality for everyone else. Coming soon.</p>
 
       <div className="mt-8 flex flex-col sm:flex-row gap-3 justify-center">
         <a
