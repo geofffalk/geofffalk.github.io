@@ -10,7 +10,6 @@ export default function ARDeviceLanding() {
   return (
     <div className="min-h-screen bg-black text-white flex items-center justify-center px-6">
     <div className="text-center max-w-xl">
-      <div className="mx-auto mb-6 h-14 w-14 rounded-2xl bg-gradient-to-br from-indigo-400 to-fuchsia-500" aria-hidden/>
       <img
         src="visualate.svg"
         alt={`${CONFIG.brandName} logo`}
