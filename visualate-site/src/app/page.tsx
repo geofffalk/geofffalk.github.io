@@ -21,7 +21,7 @@ export default function ARDeviceLanding() {
 
       <div className="mt-8 flex flex-col sm:flex-row gap-3 justify-center">
         <a
-        href={`mailto:${CONFIG.contactEmail}?subject=${encodeURIComponent(`${CONFIG.brandName} — Early access`)}`}
+        href={`mailto:${CONFIG.contactEmail}?subject=${encodeURIComponent(`${CONFIG.productName} — Early access`)}`}
         className="inline-flex items-center justify-center rounded-xl px-5 py-3 bg-gray-500 text-white font-medium"
         >
         Email {CONFIG.contactEmail}
