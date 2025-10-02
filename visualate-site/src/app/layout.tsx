@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "GLIXXR",
-  description: "eXtended Reality for everyone else. Coming soon.",
+  description: "Headphones with displays. XR for everyone else.",
 };
 
 export default function RootLayout({
