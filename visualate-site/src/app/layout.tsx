@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Visualate",
-  description: "AR for everyone else. Coming soon.",
+  title: "GLIXXR",
+  description: "eXtended Reality for everyone else. Coming soon.",
 };
 
 export default function RootLayout({
